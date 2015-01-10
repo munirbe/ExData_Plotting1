@@ -1,6 +1,6 @@
 # Script for completing project 1 of the Coursera
 #  'Exploratory Data Analysis' course.
-# Plots the needed 'plot1.R' makes use of 'prepScript.R'
+# Plots the needed 'plot1.png' makes use of 'prepScript.R'
 
 source("prepScript.R");
 png("./figure/plot1.png", bg = "transparent");
